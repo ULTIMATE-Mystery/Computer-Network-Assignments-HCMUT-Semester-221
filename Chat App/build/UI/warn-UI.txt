@@ -14,16 +14,16 @@ Types if import:
 IMPORTANT: Do NOT post this list to the issue-tracker. Use it as a basis for
             tracking down the missing module yourself. Thanks!
 
-missing module named pwd - imported by posixpath (delayed, conditional), subprocess (delayed, conditional, optional), shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional), http.server (delayed, optional), webbrowser (delayed), netrc (delayed, conditional), getpass (delayed), distutils.util (delayed, conditional, optional), distutils.archive_util (optional), psutil (optional)
-missing module named grp - imported by subprocess (delayed, conditional, optional), shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional), distutils.archive_util (optional)
+missing module named pwd - imported by posixpath (delayed, conditional), shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional), subprocess (delayed, conditional, optional), http.server (delayed, optional), webbrowser (delayed), netrc (delayed, conditional), getpass (delayed), distutils.util (delayed, conditional, optional), distutils.archive_util (optional), psutil (optional)
+missing module named grp - imported by shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional), subprocess (delayed, conditional, optional), distutils.archive_util (optional)
 missing module named _posixsubprocess - imported by subprocess (optional), multiprocessing.util (delayed)
 missing module named fcntl - imported by subprocess (optional), psutil._compat (delayed, optional), zmq.eventloop.minitornado.platform.posix (top-level)
 missing module named org - imported by pickle (optional)
 missing module named _frozen_importlib_external - imported by importlib._bootstrap (delayed), importlib (optional), importlib.abc (optional), zipimport (top-level)
 excluded module named _frozen_importlib - imported by importlib (optional), importlib.abc (optional), zipimport (top-level), PyInstaller.loader.pyimod02_archive (delayed)
 missing module named pep517 - imported by importlib.metadata (delayed)
-missing module named urllib.FancyURLopener - imported by urllib (conditional, optional), pygments.lexers._sourcemod_builtins (conditional, optional)
 missing module named urllib.urlretrieve - imported by urllib (conditional, optional), pygments.lexers._php_builtins (conditional, optional)
+missing module named urllib.FancyURLopener - imported by urllib (conditional, optional), pygments.lexers._sourcemod_builtins (conditional, optional)
 missing module named urllib.urlopen - imported by urllib (conditional, optional), pygments.lexers._lua_builtins (conditional, optional), pygments.lexers._postgres_builtins (conditional, optional)
 missing module named urllib.pathname2url - imported by urllib (conditional), PyInstaller.lib.modulegraph._compat (conditional)
 missing module named posix - imported by os (conditional, optional), shutil (conditional), importlib._bootstrap_external (conditional)
@@ -41,7 +41,7 @@ missing module named multiprocessing.set_start_method - imported by multiprocess
 missing module named multiprocessing.get_start_method - imported by multiprocessing (top-level), multiprocessing.spawn (top-level)
 missing module named multiprocessing.Process - imported by multiprocessing (top-level), jupyter_client.ssh.tunnel (top-level)
 missing module named pyimod03_importers - imported by C:\Users\Rey\AppData\Local\Programs\Python\Python310\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_pkgutil.py (top-level)
-missing module named olefile - imported by PIL.MicImagePlugin (top-level), PIL.FpxImagePlugin (top-level)
+missing module named olefile - imported by PIL.FpxImagePlugin (top-level), PIL.MicImagePlugin (top-level)
 missing module named 'PySide2.QtGui' - imported by PIL.ImageQt (conditional, optional)
 missing module named 'PyQt5.QtGui' - imported by PIL.ImageQt (conditional, optional)
 missing module named 'PySide6.QtGui' - imported by PIL.ImageQt (conditional, optional)

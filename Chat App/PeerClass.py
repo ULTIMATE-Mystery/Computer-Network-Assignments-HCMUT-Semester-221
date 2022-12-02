@@ -43,9 +43,11 @@ class Peer:
             except:
                 continue
     def handleReceiveFile(self,connection):
+        while True:
+            try:
                 try: 
                     os.mkdir(self.name) 
-                except:
+                except: 
                     pass
                 f = open(self.name+"/"+self.filename,'wb')
                 print('Start Receiving')
@@ -58,6 +60,8 @@ class Peer:
                 f.close()
                 print("Done Receiving") 
                 self.filename = ""
+            except:
+                continue
     def accept_connection(self,connection, address):
         while True:
             if (self.endAllThread == True):
@@ -119,17 +123,20 @@ class Peer:
         for client in self.listSocket:
             client.send(data.encode('utf-8'))
         for client in self.listSocket:
-            f = open(filePath,'rb')
-            print("Start sending file")
-            while (True):
-                l = f.read(1024)
-                if (not(l)):
-                    break
-                client.send(l)
-                print('Sending...')
-            f.close()
-            print("Done Sending")
-            client.shutdown(socket.SHUT_WR)
+            try:
+                f = open(filePath,'rb')
+                print("Start sending file")
+                while (True):
+                    l = f.read(1024)
+                    if (not(l)):
+                        break
+                    client.send(l)
+                    print('Sending...')
+                f.close()
+                print("Done Sending")
+                client.shutdown(socket.SHUT_WR)
+            except:
+                pass
         self.listSocket = []
         for port in self.ports:
             sender = Thread(target=self.setUpSendMessage,args=(self.address,port))
