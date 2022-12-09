@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13ed2b32-30d8-4388-a481-cb623e08eb3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chat-Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icons/sendfile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ChatPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/CheckboxListCellRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ChooseGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ChooseGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$ReadThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$ReadThread$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$ReadThread$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI$ReadThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/ClientGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/LoginGUI$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/LoginGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/LoginGUI$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/LoginGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/LoginGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/OnlineRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/RegisterGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/GUI/RegisterGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/Handler/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/Handler/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/Handler/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/Main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/icons/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Chat-Program/icons/sendfile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GUI/ChooseGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GUI/ClientGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GUI/LoginGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/GUI/RegisterGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Handler/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Handler/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Handler/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Main/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ie45FRbZB3crkAbBF0AXFNqkQW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13ed2b32-30d8-4388-a481-cb623e08eb3e" name="Changes" comment="" />
+      <created>1670528534378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670528534378</updated>
+    </task>
+    <servers />
+  </component>
+</project>
